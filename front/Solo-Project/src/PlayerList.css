@@ -1,0 +1,100 @@
+
+.player-list-container {
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.team-name-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.player-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.player-item {
+  flex: 1;
+  max-width: calc(33.33% - 20px);
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.player-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.player-info {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.player-image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.player-details {
+  flex: 1;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.player-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.player-stat {
+  margin: 5px 0;
+}
+
+.player-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.delete-button,
+.update-button {
+  border: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  width: 100px;
+  text-align: center;
+}
+
+.delete-button {
+  background-color: #f44336;
+  color: #fff;
+  margin-right: 5px;
+}
+
+.update-button {
+  background-color: #2196f3;
+  color: #fff;
+}

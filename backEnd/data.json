@@ -1,0 +1,514 @@
+[
+  {
+    "PlayerName": "LeBron James",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 23,
+    "Points": 27.5,
+    "Rebounds": 8.2,
+    "Assists": 10.0,
+    "Steals": 1.5,
+    "Blocks": 0.8,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/jamesle01.jpg"
+  },
+
+  {
+    "PlayerName": "Carmelo Anthony",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 7,
+    "Points": 13.4,
+    "Rebounds": 3.1,
+    "Assists": 1.5,
+    "Steals": 0.5,
+    "Blocks": 0.3,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/anthoca01.jpg"
+  },
+
+  {
+    "PlayerName": "Dwight Howard",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 39,
+    "Points": 7.0,
+    "Rebounds": 8.4,
+    "Assists": 1.1,
+    "Steals": 0.3,
+    "Blocks": 1.1,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/howardw01.jpg"
+  },
+
+  {
+    "PlayerName": "Malik Monk",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 1,
+    "Points": 11.7,
+    "Rebounds": 2.4,
+    "Assists": 1.4,
+    "Steals": 0.6,
+    "Blocks": 0.2,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/monkma01.jpg"
+  },
+
+
+  {
+    "PlayerName": "Draymond Green",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 23,
+    "Points": 7.0,
+    "Rebounds": 7.1,
+    "Assists": 8.9,
+    "Steals": 1.6,
+    "Blocks": 1.4,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/greendr01.jpg"
+  },
+
+  {
+    "PlayerName": "Jordan Poole",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 3,
+    "Points": 12.0,
+    "Rebounds": 2.3,
+    "Assists": 1.5,
+    "Steals": 0.5,
+    "Blocks": 0.1,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/poolejo01.jpg"
+  },
+
+  {
+    "PlayerName": "Juan Toscano-Anderson",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 95,
+    "Points": 5.7,
+    "Rebounds": 4.5,
+    "Assists": 2.9,
+    "Steals": 1.0,
+    "Blocks": 0.5,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/toscaju01.jpg"
+  },
+
+  {
+    "PlayerName": "Kevin Durant",
+    "Team": "Brooklyn Nets",
+    "Jersey Number": 7,
+    "Points": 29.8,
+    "Rebounds": 7.5,
+    "Assists": 5.3,
+    "Steals": 1.2,
+    "Blocks": 1.9
+  },
+  {
+    "PlayerName": "Stephen Curry",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 30,
+    "Points": 31.6,
+    "Rebounds": 5.2,
+    "Assists": 6.9,
+    "Steals": 1.8,
+    "Blocks": 0.3,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/curryst01.jpg"
+  },
+  {
+    "PlayerName": "Giannis Antetokounmpo",
+    "Team": "Milwaukee Bucks",
+    "Jersey Number": 34,
+    "Points": 28.7,
+    "Rebounds": 11.3,
+    "Assists": 6.2,
+    "Steals": 1.4,
+    "Blocks": 1.7
+  },
+  {
+    "PlayerName": "Kawhi Leonard",
+    "Team": "LA Clippers",
+    "Jersey Number": 2,
+    "Points": 27.1,
+    "Rebounds": 6.8,
+    "Assists": 4.9,
+    "Steals": 1.7,
+    "Blocks": 0.9
+  },
+  {
+    "PlayerName": "Luka Doncic",
+    "Team": "Dallas Mavericks",
+    "Jersey Number": 77,
+    "Points": 29.3,
+    "Rebounds": 8.4,
+    "Assists": 9.0,
+    "Steals": 1.3,
+    "Blocks": 0.5,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/doncilu01.jpg"
+  },
+  {
+    "PlayerName": "Joel Embiid",
+    "Team": "Philadelphia 76ers",
+    "Jersey Number": 21,
+    "Points": 26.9,
+    "Rebounds": 11.8,
+    "Assists": 4.3,
+    "Steals": 0.9,
+    "Blocks": 2.1
+  },
+  {
+    "PlayerName": "Nikola Jokic",
+    "Team": "Denver Nuggets",
+    "Jersey Number": 15,
+    "Points": 24.6,
+    "Rebounds": 10.9,
+    "Assists": 8.7,
+    "Steals": 1.2,
+    "Blocks": 0.9
+  },
+  {
+    "PlayerName": "Damian Lillard",
+    "Team": "Portland Trail Blazers",
+    "Jersey Number": 0,
+    "Points": 28.9,
+    "Rebounds": 4.8,
+    "Assists": 7.6,
+    "Steals": 1.1,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "Kyrie Irving",
+    "Team": "Brooklyn Nets",
+    "Jersey Number": 11,
+    "Points": 27.4,
+    "Rebounds": 5.2,
+    "Assists": 6.6,
+    "Steals": 1.5,
+    "Blocks": 0.6,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/irvinky01.jpg"
+  },
+  {
+    "PlayerName": "Anthony Davis",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 3,
+    "Points": 26.7,
+    "Rebounds": 9.8,
+    "Assists": 3.5,
+    "Steals": 1.1,
+    "Blocks": 2.3,
+    "ImageURL": "https://www.basketball-reference.com/req/202106291/images/headshots/davisan02.jpg"
+  },
+  {
+    "PlayerName": "Jimmy Butler",
+    "Team": "Miami Heat",
+    "Jersey Number": 22,
+    "Points": 21.5,
+    "Rebounds": 6.9,
+    "Assists": 6.3,
+    "Steals": 2.0,
+    "Blocks": 0.7
+  },
+  {
+    "PlayerName": "Karl-Anthony Towns",
+    "Team": "Minnesota Timberwolves",
+    "Jersey Number": 32,
+    "Points": 24.8,
+    "Rebounds": 12.3,
+    "Assists": 3.2,
+    "Steals": 0.9,
+    "Blocks": 1.5
+  },
+  {
+    "PlayerName": "Russell Westbrook",
+    "Team": "Los Angeles Lakers",
+    "Jersey Number": 0,
+    "Points": 22.6,
+    "Rebounds": 11.3,
+    "Assists": 10.8,
+    "Steals": 1.6,
+    "Blocks": 0.4,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/westbru01.jpg"
+  },
+  {
+    "PlayerName": "Devin Booker",
+    "Team": "Phoenix Suns",
+    "Jersey Number": 1,
+    "Points": 26.2,
+    "Rebounds": 4.1,
+    "Assists": 5.8,
+    "Steals": 1.0,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "Ben Simmons",
+    "Team": "Philadelphia 76ers",
+    "Jersey Number": 25,
+    "Points": 16.9,
+    "Rebounds": 8.3,
+    "Assists": 7.4,
+    "Steals": 2.1,
+    "Blocks": 0.6
+  },
+  {
+    "PlayerName": "Zion Williamson",
+    "Team": "New Orleans Pelicans",
+    "Jersey Number": 1,
+    "Points": 27.0,
+    "Rebounds": 9.4,
+    "Assists": 3.7,
+    "Steals": 1.2,
+    "Blocks": 0.8
+  },
+  {
+    "PlayerName": "Chris Paul",
+    "Team": "Phoenix Suns",
+    "Jersey Number": 3,
+    "Points": 18.2,
+    "Rebounds": 4.5,
+    "Assists": 9.8,
+    "Steals": 1.9,
+    "Blocks": 0.2
+  },
+  {
+    "PlayerName": "Bradley Beal",
+    "Team": "Washington Wizards",
+    "Jersey Number": 3,
+    "Points": 31.3,
+    "Rebounds": 4.7,
+    "Assists": 4.4,
+    "Steals": 1.5,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "Paul George",
+    "Team": "LA Clippers",
+    "Jersey Number": 13,
+    "Points": 24.6,
+    "Rebounds": 6.5,
+    "Assists": 5.4,
+    "Steals": 1.8,
+    "Blocks": 0.7
+  },
+  {
+    "PlayerName": "Klay Thompson",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 11,
+    "Points": 21.5,
+    "Rebounds": 3.8,
+    "Assists": 2.7,
+    "Steals": 1.1,
+    "Blocks": 0.6,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/thompkl01.jpg"
+  },
+  {
+    "PlayerName": "Jayson Tatum",
+    "Team": "Boston Celtics",
+    "Jersey Number": 0,
+    "Points": 25.9,
+    "Rebounds": 7.1,
+    "Assists": 4.2,
+    "Steals": 1.3,
+    "Blocks": 1.0
+  },
+  {
+    "PlayerName": "Donovan Mitchell",
+    "Team": "Utah Jazz",
+    "Jersey Number": 45,
+    "Points": 24.8,
+    "Rebounds": 4.3,
+    "Assists": 5.1,
+    "Steals": 1.6,
+    "Blocks": 0.4
+  },
+  {
+    "PlayerName": "John Collins",
+    "Team": "Atlanta Hawks",
+    "Jersey Number": 20,
+    "Points": 18.9,
+    "Rebounds": 7.7,
+    "Assists": 2.3,
+    "Steals": 0.8,
+    "Blocks": 1.3
+  },
+  {
+    "PlayerName": "De'Aaron Fox",
+    "Team": "Sacramento Kings",
+    "Jersey Number": 5,
+    "Points": 20.4,
+    "Rebounds": 3.8,
+    "Assists": 7.1,
+    "Steals": 1.5,
+    "Blocks": 0.4
+  },
+  {
+    "PlayerName": "Ja Morant",
+    "Team": "Memphis Grizzlies",
+    "Jersey Number": 12,
+    "Points": 19.6,
+    "Rebounds": 4.0,
+    "Assists": 7.8,
+    "Steals": 1.3,
+    "Blocks": 0.5
+  },
+  {
+    "PlayerName": "DeMar DeRozan",
+    "Team": "Chicago Bulls",
+    "Jersey Number": 11,
+    "Points": 22.7,
+    "Rebounds": 5.3,
+    "Assists": 4.9,
+    "Steals": 1.1,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "CJ McCollum",
+    "Team": "Portland Trail Blazers",
+    "Jersey Number": 3,
+    "Points": 23.1,
+    "Rebounds": 4.0,
+    "Assists": 4.6,
+    "Steals": 0.9,
+    "Blocks": 0.6
+  },
+  {
+    "PlayerName": "Myles Turner",
+    "Team": "Indiana Pacers",
+    "Jersey Number": 33,
+    "Points": 14.2,
+    "Rebounds": 6.5,
+    "Assists": 1.1,
+    "Steals": 0.8,
+    "Blocks": 3.4
+  },
+  {
+    "PlayerName": "D'Angelo Russell",
+    "Team": "Minnesota Timberwolves",
+    "Jersey Number": 0,
+    "Points": 18.7,
+    "Rebounds": 3.6,
+    "Assists": 6.5,
+    "Steals": 1.2,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "Lonzo Ball",
+    "Team": "Chicago Bulls",
+    "Jersey Number": 2,
+    "Points": 14.6,
+    "Rebounds": 5.2,
+    "Assists": 7.9,
+    "Steals": 1.7,
+    "Blocks": 0.6
+  },
+  {
+    "PlayerName": "Shai Gilgeous-Alexander",
+    "Team": "Oklahoma City Thunder",
+    "Jersey Number": 2,
+    "Points": 20.3,
+    "Rebounds": 5.1,
+    "Assists": 4.8,
+    "Steals": 1.1,
+    "Blocks": 0.4
+  },
+  {
+    "PlayerName": "Jerami Grant",
+    "Team": "Detroit Pistons",
+    "Jersey Number": 9,
+    "Points": 22.3,
+    "Rebounds": 4.9,
+    "Assists": 2.8,
+    "Steals": 0.9,
+    "Blocks": 1.5
+  },
+  {
+    "PlayerName": "Domantas Sabonis",
+    "Team": "Indiana Pacers",
+    "Jersey Number": 11,
+    "Points": 19.8,
+    "Rebounds": 11.1,
+    "Assists": 6.5,
+    "Steals": 1.2,
+    "Blocks": 0.7
+  },
+  {
+    "PlayerName": "Rudy Gobert",
+    "Team": "Utah Jazz",
+    "Jersey Number": 27,
+    "Points": 15.4,
+    "Rebounds": 13.5,
+    "Assists": 1.9,
+    "Steals": 0.7,
+    "Blocks": 2.9
+  },
+  {
+    "PlayerName": "Andrew Wiggins",
+    "Team": "Golden State Warriors",
+    "Jersey Number": 22,
+    "Points": 17.9,
+    "Rebounds": 5.0,
+    "Assists": 2.3,
+    "Steals": 1.1,
+    "Blocks": 1.3,
+    "ImageURL":"https://www.basketball-reference.com/req/202106291/images/headshots/wiggian01.jpg"
+  },
+  {
+    "PlayerName": "Michael Porter Jr.",
+    "Team": "Denver Nuggets",
+    "Jersey Number": 1,
+    "Points": 18.2,
+    "Rebounds": 6.7,
+    "Assists": 1.4,
+    "Steals": 0.8,
+    "Blocks": 0.9
+  },
+  {
+    "PlayerName": "Collin Sexton",
+    "Team": "Cleveland Cavaliers",
+    "Jersey Number": 2,
+    "Points": 21.8,
+    "Rebounds": 3.6,
+    "Assists": 4.4,
+    "Steals": 1.2,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "Jaren Jackson Jr.",
+    "Team": "Memphis Grizzlies",
+    "Jersey Number": 13,
+    "Points": 17.3,
+    "Rebounds": 6.1,
+    "Assists": 1.9,
+    "Steals": 0.9,
+    "Blocks": 1.5
+  },
+  {
+    "PlayerName": "Jonathan Isaac",
+    "Team": "Orlando Magic",
+    "Jersey Number": 1,
+    "Points": 12.6,
+    "Rebounds": 7.1,
+    "Assists": 1.8,
+    "Steals": 1.3,
+    "Blocks": 2.4
+  },
+  {
+    "PlayerName": "Jarrett Allen",
+    "Team": "Cleveland Cavaliers",
+    "Jersey Number": 31,
+    "Points": 11.9,
+    "Rebounds": 10.4,
+    "Assists": 1.5,
+    "Steals": 0.7,
+    "Blocks": 1.8
+  },
+  {
+    "PlayerName": "Darius Garland",
+    "Team": "Cleveland Cavaliers",
+    "Jersey Number": 10,
+    "Points": 14.5,
+    "Rebounds": 2.8,
+    "Assists": 6.4,
+    "Steals": 1.2,
+    "Blocks": 0.3
+  },
+  {
+    "PlayerName": "RJ Barrett",
+    "Team": "New York Knicks",
+    "Jersey Number": 9,
+    "Points": 16.9,
+    "Rebounds": 5.2,
+    "Assists": 3.8,
+    "Steals": 0.9,
+    "Blocks": 0.3
+  }
+]

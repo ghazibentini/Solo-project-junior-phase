@@ -1,0 +1,58 @@
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    min-height: 100vh;
+    background-image: url('https://wallpapers.com/images/hd/1080p-basketball-background-1920-x-1080-tzlta2ihylwmqfe0.jpg'); 
+  background-size: cover;
+  background-position: center; 
+  margin: 0;
+  border: 0;
+
+}
+
+
+
+  .hero {
+    margin-bottom: 20px;
+  }
+  
+  .hero h1 {
+    color: orangered;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    color: #007bff;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .search {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search input {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .search button {
+    padding: 8px 15px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
